@@ -6,8 +6,8 @@ During this exercise Stack navigation and Material design libraries are used to 
 simple application. User can navigate from home screen to second screen. Application
 bar from React Native Paper is used (instead of default one from React Native).
 
-Make use of tutorial available on https://callstack.github.io/react-native-
-paper/docs/guides/react-navigation/.
+Make use of tutorial available on https://callstack.github.io/react-native-paper/docs/guides/react-navigation/.
+
 Some advice…
 - Start by installing required libraries for stack navigation
 - Implement two simple screens HomeScreen and SecondScreen (under screens
